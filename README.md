@@ -16,7 +16,7 @@
 ### About me
 
 - 🎓 Master in Management at **Chicago Booth** (STEM) · BSc Economics & Business, **LUISS** Rome
-- 💊 Background in pharma product management, market access and go-to-market
+- 🚀 Background in product management, marketing and go-to-market
 - 🤖 Consulting work on generative AI use cases and LLM chatbot evaluation
 - 🛠️ I turn business problems into working products, using AI as my co-pilot
 - 🌍 Italian · English · Spanish
