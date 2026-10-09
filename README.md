@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Business strategist who builds.</b><br>
-  MiM @ Chicago Booth · Pharma, AI & GTM · Shipping products with AI-assisted coding
+  MiM @ Chicago Booth · Product Management, AI & GTM · Shipping products with AI-assisted coding
 </p>
 
 <p align="center">
